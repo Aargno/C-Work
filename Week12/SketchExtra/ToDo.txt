@@ -1,0 +1,13 @@
+oxo:
+Sort error messages
+
+Find way to keep display running as game is played, if can't be done, make sure display is redrawn
+accurately (Prefer constant)
+
+See if there is a way to draw a circle using SDL (formula?)
+
+triangle:
+Add functionality that provided triangle is drawn
+
+Can generate sketch file from provided triangle details that can then be run in sketch program?
+(Generate binary, only deal with smaller triangles right now, see if we can use extended ops)
